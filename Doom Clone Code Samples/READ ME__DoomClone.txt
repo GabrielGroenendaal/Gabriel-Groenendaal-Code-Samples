@@ -1,0 +1,7 @@
+## DOOM CLONE
+
+The Doom clone is my most complex project in Unity, and is a showcase of my ability to code large, complex, interlocking game systems.
+
+I worked on the project with 3 classmates, who worked almost exclusively on 3D-modeling and animation; ultimately I wrote almost 90% of the code, with the exception of the enemy AI. This includes complex state-tracking, player movement and juice, the user interface, controlling the audio, the gun mechanics, and incorporating my classmate's animation work.
+
+I learned a lot about game development from working on a large project such as this, as well as cultivating my ability to collaborate with peers. Without much oversight, I took charge of organizing and delegating our workload, creating a rudimentary pipeline, and making sure the group met deadlines on time. 

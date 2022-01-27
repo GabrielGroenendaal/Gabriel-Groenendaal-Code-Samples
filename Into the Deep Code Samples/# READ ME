@@ -1,0 +1,10 @@
+# READ ME
+# INTO THE DEEP CODE SAMPLES
+
+The Deep is a high-octane top-down 2D action game; players step into the cockpit of a submarine and are tasked with slaying the rising hordes of eldritch horrors before they reach the surface.
+
+This idea behind this game was to create a game based around the "verb" jetpack. My first iteration produced a result similar to frustrating platformers like flappy bird; the player navigated a narrow vertical column without crashing into the sides. I decided to shift focus onto my movement system, opening up 360 rotation and encouraging fast, thrilling movement. I learned an enormous amount about crafting juicy, satisfying movement systems through hours and hours of experimentation and playtesting.
+
+I developed the showcased build solo using Game Maker Studio over the course of 4 weeks, but I continue work on it today.
+
+"Into the Deep" was programmed using Game Maker Studio, which uses it's own language which includes elements of Javascript and C++.
